@@ -3,4 +3,5 @@ Algoritmo barquito
 	Escribir "Como Aguacate"
 	Escribir "Como Albaricoque"
 	Escribir "Como Almendras"
+	Escribir "Como avellanas"
 FinAlgoritmo
