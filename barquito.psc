@@ -1,3 +1,3 @@
 Algoritmo barquito
-    Escribir "Mi barquito viene cargado de X que comiencen con LETRA, como ..."
+    Escribir "Mi barquito viene cargado de Frutas que comiencen con A, como Arandano"
 FinAlgoritmo
